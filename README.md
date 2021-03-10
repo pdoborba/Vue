@@ -1,2 +1,2 @@
 # Vue
-Aulas e projetos em Vue
+Exercícios e projetos em Vue
